@@ -21,5 +21,5 @@ func main() {
 	} else {
 		fmt.Println("You must have a input")
 	}
-
+	fmt.Println("Bye")
 }
